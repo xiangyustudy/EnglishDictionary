@@ -1,0 +1,11 @@
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\bin\x86\Debug\EnglishDictionary.exe.config
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\bin\x86\Debug\EnglishDictionary.exe
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\bin\x86\Debug\EnglishDictionary.pdb
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\bin\x86\Debug\System.Data.SQLite.pdb
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.Form1.resources
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.exe
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.pdb
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\obj\x86\Debug\EnglishDictionary.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\EnglishDictionary\EnglishDictionary\bin\x86\Debug\System.Data.SQLite.dll
