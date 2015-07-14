@@ -46,6 +46,7 @@ namespace EnglishDictionary
             {
                  //exist.Text = "存在";
                 Console.WriteLine("存在");
+                Console.WriteLine("Test");
                 foreach (String str in word_list)
                     Console.WriteLine(str);
             }
